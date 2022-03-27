@@ -1,0 +1,69 @@
+Name : abc
+Booth Number: 0
+ -------------------------- Patient Details --------------------------
+      First Name : rishi
+      SurName : n
+      Age : 21
+      City : cmb
+      NIC or passport : 123
+      Vaccination Request: Astrazenica
+________________________________________________________________________________________
+
+
+ Name : srwrs
+Booth Number: 1
+ -------------------------- Patient Details --------------------------
+      First Name : asr
+      SurName : ars
+      Age : 21
+      City : cd
+      NIC or passport : 2322
+      Vaccination Request: Astrazenica
+________________________________________________________________________________________
+
+
+ Name : Empty
+Booth Number: 2
+ -------------------------- Patient Details --------------------------
+      First Name : 
+      SurName : 
+      Age : 
+      City : 
+      NIC or passport : 
+________________________________________________________________________________________
+
+
+ Name : Empty
+Booth Number: 3
+ -------------------------- Patient Details --------------------------
+      First Name : 
+      SurName : 
+      Age : 
+      City : 
+      NIC or passport : 
+________________________________________________________________________________________
+
+
+ Name : Empty
+Booth Number: 4
+ -------------------------- Patient Details --------------------------
+      First Name : 
+      SurName : 
+      Age : 
+      City : 
+      NIC or passport : 
+________________________________________________________________________________________
+
+
+ Name : Empty
+Booth Number: 5
+ -------------------------- Patient Details --------------------------
+      First Name : 
+      SurName : 
+      Age : 
+      City : 
+      NIC or passport : 
+________________________________________________________________________________________
+
+
+ 

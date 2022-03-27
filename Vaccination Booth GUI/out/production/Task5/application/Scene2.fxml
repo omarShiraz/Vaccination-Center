@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="711.0" prefWidth="883.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Scene2Controller">
+    <children>
+        <Label fx:id="fname" layoutX="200.0" layoutY="156.0" prefHeight="45.0" prefWidth="586.0" text="Firstname">
+            <font>
+                <Font size="30.0" />
+            </font>
+        </Label>
+      <Label fx:id="age" layoutX="200.0" layoutY="322.0" prefHeight="72.0" prefWidth="607.0" text="Age">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="sname" layoutX="200.0" layoutY="237.0" prefHeight="49.0" prefWidth="591.0" text="Surname">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="City" layoutX="200.0" layoutY="485.0" prefHeight="57.0" prefWidth="404.0" text="City">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="nic" layoutX="200.0" layoutY="404.0" prefHeight="66.0" prefWidth="613.0" text="NIC No/Passport No:">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="vaccine" layoutX="200.0" layoutY="560.0" prefHeight="48.0" prefWidth="630.0" text="Vaccine Requested">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="Head" layoutX="310.0" layoutY="38.0" prefHeight="70.0" prefWidth="308.0" text="Vaccine Receipt" textFill="RED">
+         <font>
+            <Font name="System Bold" size="38.0" />
+         </font>
+      </Label>
+      <Label fx:id="date" layoutX="650.0" layoutY="20.0" text="Date">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="Time" layoutX="650.0" layoutY="80.0" text="Date">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+    </children>
+</AnchorPane>
